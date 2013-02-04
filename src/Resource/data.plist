@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>did</key>
+	<string></string>
+	<key>name</key>
+	<string></string>
+	<key>tel</key>
+	<string></string>
+	<key>addr</key>
+	<string></string>
+	<key>email</key>
+	<string></string>
+	<key>poi1</key>
+	<string></string>
+	<key>poi2</key>
+	<string></string>
+	<key>poi3</key>
+	<string></string>
+	<key>poi4</key>
+	<string></string>
+	<key>poi5</key>
+	<string></string>
+	<key>poi6</key>
+	<string></string>
+	<key>poi7</key>
+	<string></string>
+	<key>poi8</key>
+	<string></string>
+	<key>poi9</key>
+	<string></string>
+	<key>poi10</key>
+	<string></string>
+	<key>poi11</key>
+	<string></string>
+	<key>poi12</key>
+	<string></string>
+	<key>poi13</key>
+	<string></string>
+	<key>poi14</key>
+	<string></string>
+	<key>poi15</key>
+	<string></string>
+	<key>poi16</key>
+	<string></string>
+	<key>poi17</key>
+	<string></string>
+</dict>
+</plist>
